@@ -1,0 +1,2 @@
+        cT = -cR.transpose() * cT;
+        cR.transposeInPlace();
